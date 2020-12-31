@@ -1,0 +1,26 @@
+{
+    "name": "elementary-theme",
+    "displayName": "elementary-theme",
+    "description": "A theme that fits the elementary os style",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Elementary dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Elementary-dark.json"
+            },
+            {
+                "label": "Elementary light",
+                "uiTheme": "vs",
+                "path": "./themes/Elementary-light.json"
+            }
+        ]
+    }
+}
