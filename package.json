@@ -7,13 +7,18 @@
     },
     "displayName": "Elementary theme",
     "description": "A theme that fits better with elementary OS style",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.52.0"
+    },
+    "publisher": "sixpounder",
+    "repository": {
+        "url": "https://github.com/sixpounder/vscode-elementary-theme"
     },
     "categories": [
         "Themes"
     ],
+    "icon": "images/logo.png",
     "contributes": {
         "themes": [
             {
