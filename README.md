@@ -1,13 +1,17 @@
-# README
-## This is the README for your extension "elementary-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# VS Code Elementary theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+A theme to better fit the Elementary OS stylesheet.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Dark version
+Loosely based on Sarah Drasner's [Night Owl theme](https://github.com/sdras/night-owl-vscode-theme) for the code highlights.
 
-**Enjoy!**
+!["Elementary Dark"](https://github.com/sixpounder/vscode-elementary-theme/raw/master/screenshots/dark.png)
+
+## Light version
+Featuring solarized light like theme for the code
+
+!["Elementary Light"](https://github.com/sixpounder/vscode-elementary-theme/raw/master/screenshots/light.png)
+
+## License
+
+MIT
