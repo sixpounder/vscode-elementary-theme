@@ -103,7 +103,6 @@
 		"editorBracketMatch.border": "#2AA298",
 		"editorError.foreground": "#E64D49",
 		"editorWarning.foreground": "#f9c440",
-		"editorWarning.border": "#f9c440",
 		"editorGutter.background": "#eee8d5",
 		"editorGutter.addedBackground": "#49d0c5",
 		"editorGutter.modifiedBackground": "#6fbef6",
