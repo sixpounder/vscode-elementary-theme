@@ -118,7 +118,6 @@
         "editorBracketMatch.background": "#fafafa33",
         "editorBracketMatch.border": "#fafafa33",
         "editorError.foreground": "#E64D49",
-        "editorError.border": "#FBFBFB",
         "editorWarning.foreground": "#daaa01",
         "editorWarning.border": "#daaa01",
         "editorGutter.addedBackground": "#49d0c5",
@@ -497,8 +496,7 @@
             "name": "Keyword Operator",
             "scope": "keyword.operator",
             "settings": {
-                "foreground": "#89ffdd",
-                "fontStyle": ""
+                "foreground": "#89ffdd"
             }
         },
         {
@@ -819,8 +817,7 @@
             "name": "Invalid Broken",
             "scope": "invalid.broken",
             "settings": {
-                "foreground": "#020e14",
-                "background": "#F78C6C"
+                "foreground": "#020e14"
             }
         },
         {
@@ -835,8 +832,7 @@
             "name": "Invalid Illegal",
             "scope": "invalid.illegal",
             "settings": {
-                "foreground": "#fafafa",
-                "background": "#ec5f67"
+                "foreground": "#fafafa"
             }
         },
         {
