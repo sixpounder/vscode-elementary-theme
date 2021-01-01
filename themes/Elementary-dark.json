@@ -12,7 +12,7 @@
         "selection.background": "#7a8181ad",
         "descriptionForeground": "#403f53",
         // Notifications
-        "notifications.background": "#485a6c",
+        "notifications.background": "#1a1a1a",
         "notifications.foreground": "#fafafa",
         "notificationLink.foreground": "#fe9ab8",
         "notifications.border": "#273445",
