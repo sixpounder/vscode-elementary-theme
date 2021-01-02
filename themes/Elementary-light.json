@@ -198,7 +198,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#b6b5cca1"
+                "foreground": "#9493a3"
             }
         },
         {
@@ -597,7 +597,7 @@
                 "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
             ],
             "settings": {
-                "foreground": "#eccdcd"
+                "foreground": "#f4679d"
             }
         },
         {
@@ -633,7 +633,7 @@
                 "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
             ],
             "settings": {
-                "foreground": "#f7c1a7"
+                "foreground": "#f4679d"
             }
         },
         {
@@ -661,7 +661,7 @@
                 "punctuation.definition.list_item.markdown"
             ],
             "settings": {
-                "foreground": "#EEFFFF"
+                "foreground": "#65737E"
             }
         },
         {
@@ -700,7 +700,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#f7c1a7"
+                "foreground": "#ad5f00"
             }
         },
         {
@@ -711,7 +711,7 @@
             ],
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#f7c1a7"
+                "foreground": "#ad5f00"
             }
         },
         {
@@ -726,7 +726,7 @@
             ],
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#f7c1a7"
+                "foreground": "#ad5f00"
             }
         },
         {
@@ -928,7 +928,7 @@
                 "meta.preprocessor.macro.cpp"
             ],
             "settings": {
-                "foreground": "#EEFFFF"
+                "foreground": "#45cccc"
             }
         },
         {
@@ -954,7 +954,7 @@
             "name": "Dart Class",
             "scope": "support.class.dart",
             "settings": {
-                "foreground": "#EEFFFF"
+                "foreground": "#45cccc"
             }
         },
         {
@@ -965,6 +965,43 @@
             "settings": {
                 "foreground": "#a56de2",
                 "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": [
+                "variable.language.self.rust",
+                "keyword.other.rust"
+            ],
+            "settings": {
+                "foreground": "#ad5f00",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "name": "normalize font style of certain components",
+            "scope": [
+                "meta.property-list.css meta.property-value.css variable.other.less",
+                "meta.property-list.scss variable.scss",
+                "meta.property-list.sass variable.sass",
+                "meta.brace",
+                "keyword.operator.operator",
+                "keyword.operator.or.regexp",
+                "keyword.operator.expression.in",
+                "keyword.operator.relational",
+                "keyword.operator.assignment",
+                "keyword.operator.comparison",
+                "keyword.operator.type",
+                "keyword.operator",
+                "keyword",
+                "punctuation.definintion.string",
+                "punctuation",
+                "variable.other.readwrite.js",
+                "storage.type",
+                "source.css",
+                "string.quoted"
+            ],
+            "settings": {
+                "fontStyle": ""
             }
         }
     ]
