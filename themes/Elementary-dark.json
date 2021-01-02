@@ -51,7 +51,7 @@
         "list.focusForeground": "#fafafa",
         "list.hoverBackground": "#404040",
         "list.hoverForeground": "#fafafa",
-        "list.highlightForeground": "#403f53",
+        "list.highlightForeground": "#a56de2",
         "list.errorForeground": "#E64D49",
         "list.warningForeground": "#daaa01",
         "list.deemphasizedForeground": "#d4d4d4",
@@ -166,6 +166,8 @@
         "peekViewTitleLabel.foreground": "#fafafa",
         "peekViewTitleDescription.foreground": "#d4d4d4",
         "peekViewEditor.matchHighlightBorder": "#a56de2",
+        // Quick pickers
+        "quickInput.foreground": "#fafafa",
         // Terminal
         "terminal.ansiBrightBlack": "#333333",
         "terminal.ansiBlack": "#333333",
