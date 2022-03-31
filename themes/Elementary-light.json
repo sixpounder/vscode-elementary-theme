@@ -186,6 +186,10 @@
         "titleBar.activeBackground": "#d6d6d6",
         "titleBar.inactiveBackground": "#d6d6d6",
         "titleBar.inactiveForeground": "#777777",
+        
+        // Inlay hints
+        "editorInlayHint.background": "#667885aa",
+        "editorInlayHint.foreground": "#fafafadd",
 
         "welcomePage.buttonBackground": "#434c5e",
         "welcomePage.buttonHoverBackground": "#4c566a",
