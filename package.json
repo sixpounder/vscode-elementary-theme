@@ -5,6 +5,11 @@
         "name": "Andrea Coronese",
         "url": "https://github.com/sixpounder"
     },
+    "contributors": [{
+        "email": "robin@geheimesite.nl",
+        "name": "Robin Boers",
+        "url": "https://geheimesite.nl/"
+    }],
     "displayName": "Elementary theme",
     "description": "A theme that fits with elementary OS stylesheet",
     "version": "0.1.6",
