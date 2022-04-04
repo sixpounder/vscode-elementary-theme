@@ -7,7 +7,7 @@
         // Base
         "foreground": "#fafafa",
         "widget.shadow": "#2D2D2D",
-        "focusBorder": "#93A1A1",
+        "focusBorder": "#7e8087",
         "errorForeground": "#403f53",
         "selection.background": "#7a8181ad",
         "descriptionForeground": "#403f53",
@@ -43,7 +43,7 @@
         // Progress Bar
         "progressBar.background": "#485a6c",
         // List and Trees
-        "list.activeSelectionBackground": "#a56de2",
+        "list.activeSelectionBackground": "#666666",
         "list.activeSelectionForeground": "#fafafa",
         "list.inactiveSelectionBackground": "#636363",
         "list.inactiveSelectionForeground": "#fafafa",
@@ -51,7 +51,7 @@
         "list.focusForeground": "#fafafa",
         "list.hoverBackground": "#404040",
         "list.hoverForeground": "#fafafa",
-        "list.highlightForeground": "#a56de2",
+        "list.highlightForeground": "#ffffff",
         "list.errorForeground": "#E64D49",
         "list.warningForeground": "#daaa01",
         "list.deemphasizedForeground": "#d4d4d4",
