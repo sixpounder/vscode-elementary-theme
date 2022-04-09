@@ -12,7 +12,7 @@
     }],
     "displayName": "Elementary theme",
     "description": "A theme that fits with elementary OS stylesheet",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "license": "MIT",
     "engines": {
         "vscode": "^1.52.0"
@@ -28,12 +28,12 @@
     "contributes": {
         "themes": [
             {
-                "label": "Elementary dark",
+                "label": "Elementary Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Elementary-dark.json"
             },
             {
-                "label": "Elementary light",
+                "label": "Elementary Light",
                 "uiTheme": "vs",
                 "path": "./themes/Elementary-light.json"
             }
